@@ -8,4 +8,4 @@ I’m passionate about creating simple experiences, focused on the user, but wit
 
 My main area of expertise is UI design, but I also work with UX, front-end development, branding and UX writing. 
 
-I’m currently working as product designer at [SCVSoft](https://scvsoft.com/). 
+🎨 I’m currently working as UX/UI / product designer at [SCVSoft](https://scvsoft.com/). 
