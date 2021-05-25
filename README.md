@@ -1,4 +1,3 @@
-![header](https://agustinruiz.com/opengraph.jpg)
 
 # Hi there 👋 
 
