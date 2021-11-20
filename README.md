@@ -1,4 +1,4 @@
-
+![aguscruiz](https://agustinruiz.com/icon.svg)
 
 # Hi there 👋 
 
