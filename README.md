@@ -11,3 +11,8 @@ I’m passionate about creating simple experiences, focused on the user, but wit
 My main area of expertise is UI design, but I also work with UX, front-end development, branding and UX writing. 
 
 🎨 I’m currently working as UX/UI / product designer at [SCVSoft](https://scvsoft.com/). 
+
+**Find me on the interwebs:**
+- [Dribbble @aguscruiz](https://dribbble.com/aguscruiz)
+- [Twitter @aguscruiz](https://twitter.com/aguscruiz)
+- [Instagram @aguscruiz](https://www.instagram.com/aguscruiz)
