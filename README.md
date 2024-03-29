@@ -1,8 +1,7 @@
 
 # Hi there 👋 
 
-## I'm Agustín Ruiz, a product designer living in Mar del Plata, Argentina.
-
+## I'm Agustín Ruiz, a product designer living in Buenos Aires, Argentina 🇦🇷
 **Find me on the interwebs:**
 
 - [LinkedIn @aguscruiz](https://www.linkedin.com/in/aguscruiz)
