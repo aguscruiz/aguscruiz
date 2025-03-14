@@ -1,10 +1,6 @@
 
 # Hi there 👋 
 
-## I'm Agustín Ruiz, a product designer living in Buenos Aires, Argentina 🇦🇷
-**Find me on the interwebs:**
+I'm Agustín Ruiz, a product designer living in Buenos Aires, Argentina 🇦🇷
 
-- [LinkedIn @aguscruiz](https://www.linkedin.com/in/aguscruiz)
-- [Dribbble @aguscruiz](https://dribbble.com/aguscruiz)
-- [Twitter @aguscruiz](https://twitter.com/aguscruiz)
-- [Instagram @aguscruiz](https://www.instagram.com/aguscruiz)
+Currently working at Brave browser.
