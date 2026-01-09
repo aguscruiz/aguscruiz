@@ -41,7 +41,7 @@ Maintaining [Nala](https://github.com/brave/leo) — Brave's design system. Ensu
 
 **✨ Brave AI**
 
-Designing [Brave's AI assistant](https://brave.com/leo), a tool that offers a way to have AI interact with your browser, ask questions about your tabs (active or history and bookmarks) and a powerful agentic mode.
+Designing [Brave's AI assistant](https://brave.com/leo), a tool that offers a way to have AI interact with your browser, ask questions about your tabs (active or history and bookmarks) and a powerful AI browsing mode.
 
 </td>
 <td width="50%">
@@ -61,4 +61,20 @@ Playing with creative code like [The little friends garden](https://github.com/a
 - Figma
 - Claude code
 - Cursor
+- V0
 - Whatever else might be needed to get the job done
+
+---
+
+### Connect
+
+<div align="left">
+
+[![Personal site](https://img.shields.io/badge/Personal_site-000000?style=for-the-badge)](https://agustinruiz.design/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/agustin.bsky.social)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aguscruiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aguscruiz)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aguscruiz)
+
+</div>
+
