@@ -57,3 +57,8 @@ Playing with creative code like [The little friends garden](https://github.com/a
 ---
 
 ### Tech & Tools
+
+- Figma
+- Claude code
+- Cursor
+- Whatever else might be needed to get the job done
