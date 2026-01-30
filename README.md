@@ -1,17 +1,11 @@
 
-### DesignOps Lead & Product designer @ [Brave](https://brave.com) 🦁
+## DesignOps Lead & Product designer @ [Brave](https://brave.com) 🦁
 
-**Buenos Aires, Argentina** 🇦🇷
+### About me
 
-</div>
+I'm a Product designer and currently DesignOps lead and product designer for 🦁 Brave browser. I'm based in Buenos Aires, Argentina 🇦🇷.
 
----
-
-### About
-
-I'm a Product designer and currently DesignOps lead, based in Buenos Aires Argentina. I'm passionate about accessibility, design systems and creating delightful user experiences through design. 
-
-In my 20 years of experience, I've worn all sorts of design hats: packaging, branding, development, editorial, and a long list of etceteras. During most of my career though, I've focused on UX/UI and product design, and fell in love with contributing to the evolution of digital products.
+I'm passionate about design systems and creating delightful user experiences through my work. In my 20 years of experience, I've worn all sorts of design hats: packaging, branding, development, editorial, and a long list of etceteras. During most of my career though, I've focused on UX/UI and product design, and fell in love with contributing to the evolution of digital products.
 
 Check out my site at [agustinruiz.design](https://agustinruiz.design/)
 
@@ -21,14 +15,14 @@ Check out my site at [agustinruiz.design](https://agustinruiz.design/)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🦁 Brave Browser**
 
 Building the future of private browsing. Contributing to [brave-core](https://github.com/brave/brave-core) — the engine powering millions of users' daily web experience.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎨 Nala Design System**
 
@@ -37,24 +31,36 @@ Maintaining [Nala](https://github.com/brave/leo) — Brave's design system. Ensu
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **✨ Brave AI**
 
 Designing [Brave's AI assistant](https://brave.com/leo), a tool that offers a way to have AI interact with your browser, ask questions about your tabs (active or history and bookmarks) and a powerful AI browsing mode.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔮 Experiments**
+**🌱 Little friends garden**
 
 Playing with creative code like [The little friends garden](https://github.com/aguscruiz/jardin-de-amiguitos) — a cute experiment that allows people to create little shapes on the site along with your name and a social link, recapturing the old "Guestbook" magic from the early internet.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
----
+**↗️ Urlinks**
+
+I'm designing and contributing to [Urlinks](https://github.com/0x4bs3nt/urlinks), a project that aims to provide a beautiful and free "Link in bio" site for everyone. We believe that we can offer a beautiful landing page for you without needing to charge you for it.
+</td>
+<td width="50%" valign="top">
+
+**🏁 Ditherator**
+
+Created [Ditherator](https://github.com/aguscruiz/ditherator) as an internal tool for Brave, that helps us create .svg image assets that are created within our branding guidelines based on an image input, without having to resort to doing photoshop magic and vectorizing of resulting images.
+</td>
+</tr>
+</table>
 
 ### Tech & Tools
 
@@ -64,9 +70,7 @@ Playing with creative code like [The little friends garden](https://github.com/a
 - V0
 - Whatever else might be needed to get the job done
 
----
-
-### Connect
+### Connect with me!
 
 <div align="left">
 
