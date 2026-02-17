@@ -74,7 +74,7 @@ Created [Ditherator](https://github.com/aguscruiz/ditherator) as an internal too
 
 <div align="left">
 
-[![Personal site](https://img.shields.io/badge/Personal_site-000000?style=for-the-badge)](https://agustinruiz.design/)
+[![Personal site](https://img.shields.io/badge/Personal_site-000000?style=for-the-badge)](https://www.aguscruiz.com/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/agustin.bsky.social)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aguscruiz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aguscruiz)
