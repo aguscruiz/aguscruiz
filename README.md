@@ -7,7 +7,7 @@ I'm a Product designer and currently DesignOps lead and product designer for ðŸ¦
 
 I'm passionate about design systems and creating delightful user experiences through my work. In my 20 years of experience, I've worn all sorts of design hats: packaging, branding, development, editorial, and a long list of etceteras. During most of my career though, I've focused on UX/UI and product design, and fell in love with contributing to the evolution of digital products.
 
-Check out my site at [agustinruiz.design](https://agustinruiz.design/)
+Check out my site at [aguscruiz.com](https://aguscruiz.com/)
 
 ---
 
