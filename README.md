@@ -1,5 +1,5 @@
 
-## Design engineer @ [Brave](https://brave.com) 🦁
+## Design engineer & DesignOps @ [Brave](https://brave.com) 🦁
 
 ### About me
 
