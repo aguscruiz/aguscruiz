@@ -1,9 +1,9 @@
 
-## DesignOps Lead & Product designer @ [Brave](https://brave.com) 🦁
+## Design engineer @ [Brave](https://brave.com) 🦁
 
 ### About me
 
-I'm a Product designer and currently DesignOps lead and product designer for 🦁 Brave browser. I'm based in Buenos Aires, Argentina 🇦🇷.
+I'm a Design engineer and currently DesignOps lead and product designer for 🦁 Brave browser. I'm based in Buenos Aires, Argentina 🇦🇷.
 
 I'm passionate about design systems and creating delightful user experiences through my work. In my 20 years of experience, I've worn all sorts of design hats: packaging, branding, development, editorial, and a long list of etceteras. During most of my career though, I've focused on UX/UI and product design, and fell in love with contributing to the evolution of digital products.
 
