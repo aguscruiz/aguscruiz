@@ -64,11 +64,7 @@ Created [Ditherator](https://github.com/aguscruiz/ditherator) as an internal too
 
 ### Tech & Tools
 
-- Figma
-- Claude code
-- Cursor
-- V0
-- Whatever else might be needed to get the job done
+- Whatever gets the job done, I'm there
 
 ### Connect with me!
 
